@@ -1,2 +1,2 @@
 # cloud
-housepbass's uga cloud project
+housepbass's cloud project
